@@ -28,4 +28,3 @@ nome = str(input('\nOlá! Como se chama? ')).capitalize().strip()
 peso = float(input(f'Tudo bem, {nome}? Qual o seu peso atual? '))
 altura = float(input('Ótimo! Agora me diga sua altura:[x.xx] '))
 calculadora(peso)
-# calculadoraIMC
